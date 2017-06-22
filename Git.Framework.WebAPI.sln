@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Git.Framework.WebAPI", "Git.Framework.WebAPI\Git.Framework.WebAPI.csproj", "{EF636C49-7041-411B-8BA8-0C717A106BD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductStore", "ProductStore\ProductStore.csproj", "{0B00C4E4-6E66-49D6-B63B-40D0B67FE255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF636C49-7041-411B-8BA8-0C717A106BD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF636C49-7041-411B-8BA8-0C717A106BD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF636C49-7041-411B-8BA8-0C717A106BD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF636C49-7041-411B-8BA8-0C717A106BD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B00C4E4-6E66-49D6-B63B-40D0B67FE255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B00C4E4-6E66-49D6-B63B-40D0B67FE255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B00C4E4-6E66-49D6-B63B-40D0B67FE255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B00C4E4-6E66-49D6-B63B-40D0B67FE255}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
